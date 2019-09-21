@@ -25,3 +25,12 @@ Da erinnerte ich mich, dass ich vor einiger Zeit schon einmal einen Versuch star
 Dabei bin ich dieser Anleitung https://guides.github.com/activities/hello-world/ gefolgt und hatte mit dem Repository (=Projekt)  "Neugierig" begonnen, die Arbeitsweise auf GitHub zu erlernen ...
 
 Wie es weiter ging findet ihr immer in meinem Blog https://www.erhardt-stiefel.de/
+
+Was ich bisher schrieb ist bei GitHub im <B>master</b> branch gespeichert. Alles was jetzt im Teil2 dazu kommen soll, schreibe ich zunächst in einen neuen branch <b> Weiter-Teil2</b>, der später dem master zugefügt wird, sobald er <b>commited</b> ist. Aber der Reihe nach.
+
+1. Das Projekt 'Neugierig' ist "nur" eine README.md Datei, d.h. eigentlich nur Kommentar in simplem Textformat. Na ja,  stellenweise verwende ich einige HTML statements (weil ich vor vielen Jahren mal ein wenig damit experimentierte), um wichtige Begriffe hervorzuheben. Um eine Textdatei zu bearbeiten braucht man eigentlich kein GitHub. Aber bei allen Projekten in GitHub wird die README.md genutzt, um den Fortschritt des Projekts schrittweise für andere Leser zu dokumentieren. Andere Leser? Ja. Das Projekt ist <b>öffentlich</b> und kann von jedem eingesehen werden. Schließlich will man ja Interessierte finden, - die mitarbeiten.
+
+2. Wenn wir mal zu zweit (oder mehr) an meinem Repository arbeiten, kann jeder an einem anderen branch arbeiten, oder auch etwas im master korrigieren. Denn <b>ein neuer branch ist stets eine Kopie des master!</b> Allerdings wird die Ergänzung oder die Korrektur im neuen branch erst in den master übernommen, wenn er comitted wurde, d.h. der verantwortliche Projektleiter seinen Segen dazu gibt.
+Denn: Es muss zusammen passen und eine bestimmte Funktion erfüllen. Bei Text ist das nicht so kritisch und da gibt es viele Formulierungen für die gleiche Aussage. Wenn es aber mal ans Programmieren geht, dann ist der Prozessor der Leser und wenn der den Programmcode nicht versteht, - geht eben nichts.
+
+Ich bin mir bewußt, dass "alte Hasen" - damit meine ich jetzt erfahrene GitHub User - über meine Erläuterungen hier schmunzeln, aber ich lerne am besten, wenn ich aufschreibe was ich meine verstanden zu haben und hoffe bei Human Connection einen Mentor zu finden, der dies bestätigt oder mich korrigiert. Ausserdem schreibe ich dies ja nicht für alte Hasen, sondern für jung gebliebene Rentner!
