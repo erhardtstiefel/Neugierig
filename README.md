@@ -26,9 +26,9 @@ Dabei bin ich dieser Anleitung https://guides.github.com/activities/hello-world/
 
 Wie es weiter ging findet ihr immer in meinem Blog https://www.erhardt-stiefel.de/
 
-# Weiter Teil 1
-<b>Wie es weiter ging (Teil1)</b>
-Was ich bisher schrieb ist bei GitHub im <B>master</b> branch gespeichert. Alles was jetzt im Teil2 dazu kommen soll, schreibe ich zunächst in einen neuen branch <b> Weiter-Teil2</b>, der später dem master zugefügt wird, sobald er <b>commited</b> ist. Aber der Reihe nach.
+# Weiter ... Teil 1
+<b>Wie es weiter ging (Teil1)</b><br>
+Was ich bisher schrieb ist bei GitHub im <B>master</b> branch gespeichert. Alles was jetzt dazu kommen soll, schreibe ich zunächst in einen neuen branch, der später dem master zugefügt wird, sobald er <b>committed</b> ist. Aber der Reihe nach.
 
 1. Das Projekt 'Neugierig' ist "nur" eine README.md Datei, d.h. eigentlich nur Kommentar in simplem Textformat. Na ja,  stellenweise verwende ich einige HTML statements (weil ich vor vielen Jahren mal ein wenig damit experimentierte), um wichtige Begriffe hervorzuheben. Um eine Textdatei zu bearbeiten braucht man eigentlich kein GitHub. Aber bei allen Projekten in GitHub wird die README.md genutzt, um den Fortschritt des Projekts schrittweise für andere Leser zu dokumentieren. Andere Leser? Ja. Das Projekt ist <b>öffentlich</b> und kann von jedem eingesehen werden. Schließlich will man ja Interessierte finden, - die mitarbeiten.
 
