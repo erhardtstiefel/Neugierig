@@ -10,8 +10,10 @@ Aber soviel hatte ich mitbekommen: Man arbeitet auf der Entwicklungs-Plattform G
 
 Deshalb habe ich mich etwas über Github schlau gemacht.
 Zunächst mal da, wo ich immer zuerst nachsehe: bei wikipedia um einen Überblick zu bekommen https://de.wikipedia.org/wiki/GitHub
-Dann suchte ich nach einer deutschen Anleitung und fand diese bei der Zeitschrift Computer-Zeitschrift CHIP https://praxistipps.chip.de/github-tutorial-diese-basics-muessen-sie-koennen_5078 
-Von hier https://github.de.uptodown.com/windows lud ich mir eine Benutzeroberfläche für Windows herunter.
+Dann suchte ich nach einer deutschen Anleitung und fand diese bei der Computer-Zeitschrift CHIP https://praxistipps.chip.de/github-tutorial-diese-basics-muessen-sie-koennen_5078 
+
+Beim Studium dieses 'Praxitipps' kann man schon mal testen, ob man Lust am 'Programmieren' hat bzw. es erlernen möchte. Für junge lernbereite und ehrgeizige Menschen sicher ein guter Einstieg. Ich wollte aber wissen, ob man das auch noch im Alter kann? Also installierte ich mir von hier https://desktop.github.com/ lud ich mir die Benutzeroberfläche für Windows herunter.
+
 Dann habe ich mich zunächst mal bei GitHub registriert https://github.com/ und das Login vollzogen.
 Nun begann die Anwendung nach Repositories zu suchen.
 
