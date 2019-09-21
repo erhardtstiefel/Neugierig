@@ -7,7 +7,7 @@ Kann jemand in unserem Alter noch programmieren lernen? Und das  schrittweise E
 Den Einstieg fand ich durch das Projekt Human Connection - von dem ich begeistert bin. Um mit meinem im Beruf erlernten Wissen das Projekt vielleicht unterstützen zu können, habe ich mir die 4 Videos auf YouTube, beginnend mit 'Einführung in Open Source Entwicklung - Beispiel Human Connection #1' angesehen und - habe (fast) nur Bahnhof verstanden. 
 <br>Wer es auch so versuchen will kann hier beginnen https://www.youtube.com/watch?v=GDst_MqRSdQ&t=8s
 
-Nun - soviel hatte ich mitbekommen: Man arbeitet auf der Entwicklungs-Plattform GitHub zusammen!
+Nun - soviel hatte ich mitbekommen: <b>Man arbeitet auf der Entwicklungs-Plattform GitHub zusammen!</b>
 
 Deshalb habe ich mich zunächst auf meine Art etwas über Github schlau gemacht.
 <br>Zunächst mal da, wo ich immer zuerst nachsehe: bei wikipedia um einen Überblick zu bekommen https://de.wikipedia.org/wiki/GitHub
