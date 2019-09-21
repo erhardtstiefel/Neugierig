@@ -4,7 +4,7 @@
 Kann jemand in unserem Alter noch programmieren lernen? Und das  schrittweise Erlernte evtl.  in einem Team älterer Menschen praktizieren?
 <br><b>Ich bin zu Beginn des Versuchs 77 und will es wissen.</b>
 
-Den Einstieg fand ich durch das Projekt Human Connection von dem ich begeistert bin. Um mit meinem im Beruf erlernten Wissen das Projekt vielleicht unterstützen zu können, habe ich mir die 4 Videos auf YouTube, beginnend mit 'Einführung in Open Source Entwicklung - Beispiel Human Connection #1' angesehen und - habe (fast) nur Bahnhof verstanden. 
+Den Einstieg fand ich durch das Projekt Human Connection - von dem ich begeistert bin. Um mit meinem im Beruf erlernten Wissen das Projekt vielleicht unterstützen zu können, habe ich mir die 4 Videos auf YouTube, beginnend mit 'Einführung in Open Source Entwicklung - Beispiel Human Connection #1' angesehen und - habe (fast) nur Bahnhof verstanden. 
 <br>Wer es auch so versuchen will kann hier beginnen https://www.youtube.com/watch?v=GDst_MqRSdQ&t=8s
 
 Nun - soviel hatte ich mitbekommen: Man arbeitet auf der Entwicklungs-Plattform GitHub zusammen!
@@ -19,9 +19,9 @@ Hiebei halfen mir meine Englisch Kenntnisse und die Übung im Installieren von P
 Das beherrschen die meisten jungen Leute. Bei unserer Generation vielleicht nicht so viele. Ist aber noch nicht entscheidend, denn wenn man googlen kann, ist das alles kein Hindernis und erlernbar.
 
 Um sich bei GitHub anmelden zu können, muss man natürlich erstmal registriert sein. Das macht man hier https://github.com/ 
-Nach dem Login begann die Anwendung nach Repositories zu suchen, und - fand meine hier
+Nach dem Login begann die Anwendung nach Repositories zu suchen, und - fand meine "Neugierig" hier https://github.com/erhardtstiefel/Neugierig/edit/master/README.md
 
-Man kann allerdings auch von hier https://git-scm.com/downloads das benötigte Git installieren und direkt bei GitHub arbeiten.
-Dann bin genau dieser Anleitung https://guides.github.com/activities/hello-world/ gefolgt und habe mit diesem Projekt begonnen, die Arbeitsweise auf GitHub zu erlernen.
+Da erinnerte ich mich, dass ich vor einiger Zeit schon einmal einen Versuch startete und mir das benötigte Git von hier https://git-scm.com/downloads installiert hatte um direkt bei GitHub arbeiten zu können.
+Danei bin dieser Anleitung https://guides.github.com/activities/hello-world/ gefolgt und hatte mit dem Projekt "Neugierig" begonnen, die Arbeitsweise auf GitHub zu erlernen. 
 
 Wie es weiter ging steht in meinem Blog in https://www.erhardt-stiefel.de/
